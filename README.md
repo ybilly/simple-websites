@@ -1,2 +1,2 @@
-# simple-websites
-#Created on 18 JAN 2022
+# phonetic-website
+This repository is used for Git and GitHub training.
